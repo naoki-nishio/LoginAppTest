@@ -5,6 +5,245 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0DA4BB16-D250-45E7-8710-BC5AF181313F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DA4BB16-D250-45E7-8710-BC5AF181313F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091567.93837404</real>
+			<key>timeStoppedRecording</key>
+			<real>699091613.90345299</real>
+			<key>title</key>
+			<string>Build for Previews LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>0DA4BB16-D250-45E7-8710-BC5AF181313F</string>
+		</dict>
+		<key>14D9DCE3-B664-4269-BB5A-8FC06847BE0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14D9DCE3-B664-4269-BB5A-8FC06847BE0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091567.46469605</real>
+			<key>timeStoppedRecording</key>
+			<real>699091611.065557</real>
+			<key>title</key>
+			<string>Build for Previews LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>14D9DCE3-B664-4269-BB5A-8FC06847BE0E</string>
+		</dict>
+		<key>45D63372-3E3E-4A7C-9C1F-3B646A56A835</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45D63372-3E3E-4A7C-9C1F-3B646A56A835.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699026569.97232294</real>
+			<key>timeStoppedRecording</key>
+			<real>699026575.07002997</real>
+			<key>title</key>
+			<string>Build LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>45D63372-3E3E-4A7C-9C1F-3B646A56A835</string>
+		</dict>
+		<key>487591C8-FC04-4045-BBDF-B7E0CFB0C816</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>487591C8-FC04-4045-BBDF-B7E0CFB0C816.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091620.31740201</real>
+			<key>timeStoppedRecording</key>
+			<real>699091622.88294005</real>
+			<key>title</key>
+			<string>Build for Previews LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>487591C8-FC04-4045-BBDF-B7E0CFB0C816</string>
+		</dict>
+		<key>65C434CD-6FF4-4CF1-8FD3-89CE4ED89746</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65C434CD-6FF4-4CF1-8FD3-89CE4ED89746.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091632.75221801</real>
+			<key>timeStoppedRecording</key>
+			<real>699091636.739133</real>
+			<key>title</key>
+			<string>Build for Previews LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>65C434CD-6FF4-4CF1-8FD3-89CE4ED89746</string>
+		</dict>
+		<key>DE393BBC-474B-402C-8E21-B6D6028B6318</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE393BBC-474B-402C-8E21-B6D6028B6318.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091670.31525803</real>
+			<key>timeStoppedRecording</key>
+			<real>699091675.89821994</real>
+			<key>title</key>
+			<string>Clean LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>DE393BBC-474B-402C-8E21-B6D6028B6318</string>
+		</dict>
+		<key>DE45AEE5-BFAD-48EC-A947-F4B11F9F32C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE45AEE5-BFAD-48EC-A947-F4B11F9F32C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LoginTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LoginTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews LoginTest</string>
+			<key>timeStartedRecording</key>
+			<real>699091679.67463303</real>
+			<key>timeStoppedRecording</key>
+			<real>699092203.74061799</real>
+			<key>title</key>
+			<string>Build for Previews LoginTest</string>
+			<key>uniqueIdentifier</key>
+			<string>DE45AEE5-BFAD-48EC-A947-F4B11F9F32C4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
